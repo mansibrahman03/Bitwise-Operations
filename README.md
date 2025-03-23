@@ -1,9 +1,6 @@
-CS Data Lab
+Bitwise Operations
 
-Overview: This repository contains solutions to the Data Lab, a programming assignment from the CS (Computer Systems: A Programmer's Perspective) course. The Data Lab focuses on bit manipulation and understanding of the binary representation of data in C programming.
-
-Purpose
-The Data Lab is designed to develop a deep understanding of bit-level operations and data representations by implementing various functions using only a limited set of C operators. This helps students gain insights into how computers represent and manipulate data at the most fundamental level.
+Overview: This repository contains solutions to the Bitwise Operations Lab, a programming assignment from cs105 at Harvey Mudd. The project focuses on bit manipulation and understanding of the binary representation of data in C programming.
 
 Structure
 The main file is bits.c, which contains implementations for the following functions:
@@ -45,7 +42,6 @@ Assumptions
 - Shifting an integer by more than the word size has unpredictable behavior
 
 Testing
-The lab provides two main tools for testing:
 - dlc (data lab checker): Verifies that solutions conform to the coding rules
 - btest: Tests the correctness of the implemented functions
 
